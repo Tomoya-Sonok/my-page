@@ -95,10 +95,7 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>What I do</h2>
-          <p>
-            テキストが入りますテキストが入りますテキストが入りますテキストが入ります
-            テキストが入りますテキストが入ります
-          </p>
+          <p>　</p>
         </header>
         <ul className="features">
           <li className="icon solid fa-code">
