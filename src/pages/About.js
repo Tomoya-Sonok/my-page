@@ -37,7 +37,10 @@ const IndexPage = () => (
             amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis
             id vel diam. Praesent sit amet posuere risus, eu faucibus lectus.
             Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam.
-            Proin nec dui cursus, posuere dui eget interdum.
+            Proin nec dui cursus, posuere dui eget interdum. ブログは
+            <a href="https://techguy10308blog.netlify.app" target="__blank">
+              こちら
+            </a>
           </p>
         </div>
       </section>
