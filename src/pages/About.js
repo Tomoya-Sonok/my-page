@@ -9,7 +9,7 @@ const IndexPage = () => (
     <article id="main">
       <header>
         <h2>Who am I ?</h2>
-        <p>私がどのような人間なのかを知っていただくためのページです。</p>
+        <p>自己紹介ページへようこそ。</p>
       </header>
       <section className="wrapper style5">
         <div className="inner">
