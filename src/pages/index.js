@@ -58,10 +58,16 @@ const IndexPage = () => (
     <section id="two" className="wrapper alt style2">
       <section className="spotlight">
         <div className="image">
-          <img src={thinkyImg} alt="thinky-img" />
+          <a href="https://github.com/Tomoya-Sonok/thinky" target="__blank">
+            <img src={thinkyImg} alt="thinky-img" />
+          </a>
         </div>
         <div className="content">
-          <h2>Thinky （開発中）</h2>
+          <h2>
+            <a href="https://github.com/Tomoya-Sonok/thinky" target="__blank">
+              Thinky （開発中）
+            </a>
+          </h2>
           <p>
             あらゆるものに対して「Why?」をぶつけて思考することで、考える力を養うことが目的のアプリ。
             自分一人でじっくり考えてもよし、他のユーザーの考えから新たな視座を得て思考の幅を拡げることも可能。
@@ -70,10 +76,16 @@ const IndexPage = () => (
       </section>
       <section className="spotlight">
         <div className="image">
-          <img src={ootdImg} alt="ootd-img" />
+          <a href="https://www.ootd.me" target="__blank">
+            <img src={ootdImg} alt="ootd-img" />
+          </a>
         </div>
         <div className="content">
-          <h2>OOTD</h2>
+          <h2>
+            <a href="https://www.ootd.me" target="__blank">
+              OOTD
+            </a>
+          </h2>
           <p>
             自分が撮ったコーデ写真を投稿・確認・編集・削除でき、ボタン１つでランダム表示して毎日の服選びを簡単にしてくれるアプリ。
             カテゴリ別表示でその日の気分ごとにコーデ一覧を視覚的に整理できるので、意思決定をよりスピーディーにしてくれる。
