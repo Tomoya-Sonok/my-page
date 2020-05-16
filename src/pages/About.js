@@ -18,20 +18,14 @@ const IndexPage = () => (
             <span className="image left">
               <img src={profilePic} alt="" />
             </span>
-            Morbi mattis mi consectetur tortor elementum, varius pellentesque
-            velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac
-            scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis
-            lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo.
-            Maecenas sagittis felis ac sagittis semper. Curabitur purus leo,
-            tempus sed finibus eget, fringilla quis risus. Maecenas et lorem
-            quis sem varius sagittis et a est. Maecenas iaculis iaculis sem.
-            Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada
-            fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo.
-            Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci
-            fringilla tincidunt. Aliquam eleifend ligula non velit accumsan
-            cursus. Etiam ut gravida sapien.
+            広島県出身の駆け出しWebエンジニア。
+            13歳からずっと英語オタクで、洋画や洋楽をこよなく愛する。
+            大学3年次にロサンゼルスの日系コンサル企業にてインターンシップを経験し、ビジネスにも興味をもつ（主にマーケティング）。
+            大好きな英語を使いながら0から1を創り出せるプログラミングに魅力を感じ、2020年1月からTECH::CAMPにて学習開始。
+            スクールではサーバーサイドとしてRuby
+            onRailsを用いた個人・チーム開発、
+            独学では主にフロントサイドとしてReact/Gatsby.jsのようなモダンなJavaScriptライブラリを学習。
           </p>
-
           <p>
             Vestibulum ultrices risus velit, sit amet blandit massa auctor sit
             amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis
