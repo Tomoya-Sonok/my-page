@@ -121,8 +121,9 @@ const IndexPage = () => (
           <li className="icon solid fa-server">
             <h3>Back-end</h3>
             <p>
-              Ruby on Railsによるアプリ開発や、RailsでAPIのみを開発し、
+              RailsでAPIのみを開発し、
               React等で実装したSPAを組み合わせることで、フロントサイドとサーバーサイドを切り分けて開発することができます。
+              また、DockerやAWSの実用経験もあります。
             </p>
           </li>
           <li className="icon solid fa-language">
