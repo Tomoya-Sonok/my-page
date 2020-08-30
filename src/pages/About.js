@@ -33,6 +33,14 @@ const IndexPage = () => (
             Rails中心のカリキュラム以外にも、ReactなどのモダンなJavaScriptライブラリやDockerを独学で習得して同年3月に卒業。
             現在は、東京のITベンチャーでPythonを用いたバックエンド開発やネットワーク・インフラの構築を行っている。
           </p>
+          <p className="resume">
+            Here is{' '}
+            <a href="https://tomoya-sonok.github.io/myresume/" target="__blank">
+              my resume
+            </a>
+            <br />
+            (github.ioにて公開できる範囲内の職務経歴書)
+          </p>
         </div>
       </section>
     </article>

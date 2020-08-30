@@ -49,7 +49,7 @@ const IndexPage = () => (
           <h2>Projects</h2>
           <p>
             主にバックエンドはRuby on
-            Rails、フロントエンドはReactで開発しています。
+            Rails、フロントエンドはReactでの開発が得意です。
           </p>
         </header>
       </div>
