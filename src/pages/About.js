@@ -31,7 +31,11 @@ const IndexPage = () => (
             大好きな英語を使いながら0から1を創り出せるプログラミングに惹き込まれ、2020年1月からTECH::CAMPにて学習開始。
             Ruby on
             Rails中心のカリキュラム以外にも、ReactなどのモダンなJavaScriptライブラリやDockerを独学で習得して同年3月に卒業。
-            現在は、東京のITベンチャーでPythonを用いたバックエンド開発やネットワーク・インフラの構築を行っている。
+            現在は、海外産 OSS の改修や Ruby on Rails
+            による自社サービスの顧客管理システムの開発、CMS（Drupal）による HP
+            構築や
+            AWSサーバーレス環境でのAPI開発など、バックエンドからフロントエンドまで幅広く業務に携わっている。
+            好きな言語・FWは、Ruby（Rails）/JavaScript（ReactJS, NodeJS）。
           </p>
           {/*
           <p className="resume">
